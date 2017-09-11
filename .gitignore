@@ -1,0 +1,25 @@
+﻿###########################
+#python compiled file
+
+*.pyc
+
+###########################
+# pycharm project directory
+
+/.idea
+
+###########################
+# log file
+
+*.log
+
+###########################
+# snapshot file
+
+*.png
+
+###########################
+# report file
+
+*.html
+
