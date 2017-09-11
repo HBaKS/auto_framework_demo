@@ -2,6 +2,7 @@
 up my first AF demo
 
 目录结构
+'''
 auto_framework_demo/    <-- 根目录
 |
 +- config/              <-- 配置文件目录
@@ -21,3 +22,4 @@ auto_framework_demo/    <-- 根目录
 +- testsuites/          <-- 测试套件目录
 |
 +- tools/               <-- 浏览器驱动目录
+'''
